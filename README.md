@@ -12,3 +12,16 @@ citation은 'ISO690'을 기준으로 한다.
 
 #### 3. 아티클(article)
 아티클의 경우 아티클을 확인할 수 있는 주소를 기록한다.
+
+## 구분
+#### 1. public
+public blockchain과 관련된 일반적인 것들.
+
+#### 2. private
+private, consortium blockchain과 관련된 일반적인 것들.
+
+#### 3. consensus_itself
+consensus protocol에 대한 내용이거나 직접적인 연관이 있는 것들.
+
+#### 4. etc
+기타 블록체인 기술과 연관이 있는 것.
